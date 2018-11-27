@@ -1,0 +1,3 @@
+This project is an attempt to 'productionize' Isaac Shihlangu's RFI statistics work.
+
+The aim is to use a scalable storage and compute framework to continuously run the statistical analysis of RFI in MeerKAT visibility files. More details to follow..
